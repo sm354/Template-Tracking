@@ -21,3 +21,10 @@ python eval.py  --p=<path to predictions.txt> --g=<path to groundtruth.txt>
 ```
 python livetracker.py --method=<1/2/3>
 ```
+
+## Authors
+
+- [Shubham Mittal](https://www.linkedin.com/in/shubham-mittal-6a8644165/)
+- [Aditi Khandelwal](https://www.linkedin.com/in/aditi-khandelwal-991b1b19b/)
+
+Course assignment in Computer Vision course ([course webpage](https://www.cse.iitd.ac.in/~chetan/teaching/col780-2020.html)) taken by [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan)
